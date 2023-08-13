@@ -7,7 +7,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 export default class App extends Component {
 
 
-  apiKey = 'e557761c4707465c97dd00c0b98d84de';
+  apiKey = 'your_api_key';
   // apiKey = (process.env.REACT_APP_NEWS_API)
 
   state = {
